@@ -10,3 +10,6 @@ Topics which i am covered -
 Topics coverd in lec_06 - lec_07 -
     1. Props and Tailwind CSS
     2. Solve an interview question
+
+Topics coverd in lec_09 -
+    1. Create a Background changer project.
