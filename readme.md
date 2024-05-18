@@ -13,3 +13,7 @@ Topics coverd in lec_06 - lec_07 -
 
 Topics coverd in lec_09 -
     1. Create a Background changer project.
+
+Topics coverd in lec_10 -
+    1. Making a Password Generator Project
+    2. Learning about Hooks
