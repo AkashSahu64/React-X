@@ -17,3 +17,7 @@ Topics coverd in lec_09 -
 Topics coverd in lec_10 -
     1. Making a Password Generator Project
     2. Learning about Hooks
+
+Topics coverd in lec_11 -
+    1. Understanding of custom Hooks
+    2. Currency Converter Project
