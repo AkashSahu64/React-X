@@ -22,6 +22,10 @@ Topics coverd in lec_11 -
     1. Understanding of custom Hooks
     2. Currency Converter Project
 
-Topics coverd in lec_11 -
+Topics coverd in lec_12 -
     1. Understanding of React Router and react-router-dom
     2. Making a very good project using react roter and react-router-dom and fetchin an API of GitHub 😎🤗
+
+Topics coverd in lec_13 -
+    1. Understanding of Context API 😉
+    2. Two Project using context API
