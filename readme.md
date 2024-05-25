@@ -29,3 +29,7 @@ Topics coverd in lec_12 -
 Topics coverd in lec_13 -
     1. Understanding of Context API 😉
     2. Two Project using context API
+
+Topics coverd in lec_14 -
+    1. Context API with local storage.
+    2. Todo Project
